@@ -1,2 +1,1 @@
-# Authors
-- **Ascanio "Ascaniolamp" Narcisi** <sub>PROJECT</sub>
+Ascanio "Ascaniolamp" Narcisi <ascaniolamp@gmail.com>
