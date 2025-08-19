@@ -9,8 +9,7 @@ There are hundreds of ways you can improve this project, and you should!
 
 Don't be scared to use the issue tracker for issues or requests that may seem trivial;
 Being at the start of this project, any criticisms or complaints are much appreciated,
-and I'm happy to give all the help _I can_ to people who might want to use it.
-
+and I'm happy to give all the help _I can_ to people who might want to use it.<br>
 <sup>
 Filing issues isn't limited to any Linux distro or WM,
 but the project is mainly targeted at Arch Linux + Hyprland systems,
