@@ -12,7 +12,7 @@ Being at the start of this project, any criticisms or complaints are much apprec
 and I'm happy to give all the help _I can_ to people who might want to use it.
 
 <sup>
-Filing issues is not limited to any Linux distro or window manager,
+Filing issues isn't limited to any Linux distro or WM,
 but the project is mainly targeted at Arch Linux + Hyprland systems,
 so don't expect much support if you're running anything else.
 </sup>
@@ -25,7 +25,7 @@ When filing an issue, please provide as much relevant information as possible:
 
 If you believe you can help improve this project but don't know how to do so,
 check out these tutorials on how to contribute:
-[First Contributions](https://github.com/firstcontributions/first-contributions#first-contributions)
+[First Contributions](https://github.com/firstcontributions/first-contributions#first-contributions),
 [First Timers Only](https://firsttimersonly.com)
 
 ---
