@@ -1,18 +1,18 @@
 ## <div align="center">Welcome!</div>
 
-I’m currently working on finishing [akeon](https://github.com/ascaniolamp/akeon) and on learning _anything_ interesting that comes along!
-<br>All my personal projects _are_ and _will be_ **free** (as in _freedom_), so I truly appreciate every cent that is sent my way!
+I’m currently working on finishing [akeon](https://github.com/ascaniolamp/akeon) and on learning _anything_ interesting that comes along.
+<br>All my personal projects _are_ and _will be_ **free** (as in _freedom_), so I truly appreciate every cent sent my way!
 
 <div align="center">
-<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" height="32">
-<img src="https://img.shields.io/badge/Gmail-D13236?style=for-the-badge&logo=gmail&logoColor=white" height="32">
-<img src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black" height="32">
-<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="32">
+<a href="ascaniolamp.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" height="32"></a>
+<a href="mailto:ascaniolamp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D13236?style=for-the-badge&logo=gmail&logoColor=white" height="32"></a>
+<a href="liberapay.com/Ascaniolamp/donate"><img src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black" height="32"></a>
+<a href="paypal.me/AscanioNarcisi"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="32"></a>
 <br>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="16">
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="16">
-<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" height="16">
-<img src="https://img.shields.io/badge/Zed-white?style=for-the-badge&logo=zedindustries&logoColor=084CCF" height="16">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="18">
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="18">
+<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" height="18">
+<img src="https://img.shields.io/badge/Zed-white?style=for-the-badge&logo=zedindustries&logoColor=084CCF" height="18">
 </div>
 
 <hr>
