@@ -17,7 +17,6 @@ I’m currently working on finishing [akeon](https://github.com/ascaniolamp/akeo
 
 <hr>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ascaniolamp&show_icons=true&theme=dark">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ascaniolamp&theme=dark">
 </div>
 
