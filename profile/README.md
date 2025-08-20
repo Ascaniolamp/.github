@@ -4,6 +4,8 @@ I’m currently working on finishing [akeon](https://github.com/ascaniolamp/akeo
 <br>All my personal projects _are_ and _will be_ **free** (as in _freedom_), so I truly appreciate every cent sent my way!
 
 <div align="center">
+<img src="https://github-licenses-stats.vercel.app/api/top-licenses?username=ascaniolamp&count=5&theme=dark">
+<br>
 <a href="https://ascaniolamp.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" height="32"></a>
 <a href="mailto:ascaniolamp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D13236?style=for-the-badge&logo=gmail&logoColor=white" height="32"></a>
 <a href="https://liberapay.com/Ascaniolamp/donate"><img src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black" height="32"></a>
