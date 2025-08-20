@@ -50,9 +50,6 @@ I’m currently working on finishing [akeon](https://github.com/ascaniolamp/akeo
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="16">
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" height="16">
 <br>
-</div>
-<hr>
-<div align="center">
 <sub>Next learning goals:</sub>
 <br>
 <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" height="16">
