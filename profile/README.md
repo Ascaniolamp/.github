@@ -1,7 +1,7 @@
 ## <div align="center">Welcome!</div>
 
-I’m currently working on finishing [akeon](https://github.com/ascaniolamp/akeon) and on learning _anything_ interesting that comes along.
-<br>All my personal projects _are_ and _will be_ **free** (as in _freedom_), so I truly appreciate every cent sent my way!
+Currently working on finishing [akeon](https://github.com/ascaniolamp/akeon) and on learning _anything_ interesting that comes along.
+<br>All my personal projects _are_ and _will be_ **free** (as in _freedom_).
 
 <div align="center">
 <a href="https://ascaniolamp.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" height="32"></a>
