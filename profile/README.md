@@ -8,12 +8,6 @@ Currently learning <i>anything</i> interesting that comes along.
 <br>
 
 <div align="center">
-<a href="https://ascaniolamp.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" height="32"></a>
-<a href="mailto:ascaniolamp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D13236?style=for-the-badge&logo=gmail&logoColor=white" height="32"></a>
-<br>
-</div>
-
-<div align="center">
 <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" height="32">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="32">
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" height="32">
